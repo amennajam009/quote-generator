@@ -45,11 +45,11 @@ body {
     }
 }
 
-.gen{
-    margin-top: 70px;
+  h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 1000;
+    font-size: 20px
 }
 
-.btn{
-    margin-top: 80%;
-   
-}
